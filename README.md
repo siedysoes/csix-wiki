@@ -10,7 +10,7 @@
 
 `csix-wiki` is a structured, beginner-friendly cybersecurity knowledge base —
 think "Wikipedia for security learners", but curated: short, practical,
-cross-linked articles instead of sprawling wiki pages.
+cross-linked articles instead of long, rambling encyclopedia pages.
 
 > 🌐 **Read it on the web:** **https://siedysoes.github.io/csix-wiki/**
 

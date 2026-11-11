@@ -10,7 +10,8 @@
 
 `csix-wiki` adalah basis pengetahuan cybersecurity yang terstruktur dan ramah
 pemula — semacam "Wikipedia untuk pembelajar keamanan", tapi dikurasi: artikel
-pendek, praktis, dan saling terhubung, bukan halaman wiki yang membelakakan.
+pendek, praktis, dan saling terhubung, bukan halaman ensiklopedia yang panjang
+dan bertele-tele.
 
 > 🌐 **Baca di web:** **https://siedysoes.github.io/csix-wiki/**
 
