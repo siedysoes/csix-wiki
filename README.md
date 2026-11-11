@@ -38,6 +38,15 @@ cross-linked articles instead of sprawling wiki pages.
 | [Security Certifications Guide](en/career/certifications.md) | Security+, eJPT, OSCP, CISSP — which fits which path |
 | [Study Roadmap: 3 / 6 / 12 Months](en/career/study-roadmap.md) | Concrete month-by-month plans, home lab, portfolio, interviews |
 
+### Practical (4 articles)
+
+| Article | You'll learn |
+|---------|--------------|
+| [Building a Home Lab](en/practical/hands-on-lab.md) | Legal, safe, isolated lab setup with vulnerable targets and tools |
+| [Incident Response Basics](en/practical/incident-response.md) | The IR lifecycle, first-hour checklist, roles, evidence handling |
+| [Cloud Security Basics](en/practical/cloud-security.md) | Shared responsibility, IAM, misconfigurations, cloud logging |
+| [Vulnerability Management](en/practical/vulnerability-management.md) | CVE, CVSS, scanning, triage SLAs, patch vs compensate |
+
 Every article exists in **English** (`en/`) and **Indonesian** (`id/`).
 
 ## Read on the web
@@ -61,10 +70,12 @@ csix-wiki/
 ├── assets/           # banner
 ├── en/               # English articles
 │   ├── fundamentals/
-│   └── career/
+│   ├── career/
+│   └── practical/
 ├── id/               # Indonesian articles
 │   ├── fundamentals/
-│   └── career/
+│   ├── career/
+│   └── practical/
 └── .github/workflows # CI: link + manifest validation
 ```
 

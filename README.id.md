@@ -38,6 +38,15 @@ pendek, praktis, dan saling terhubung, bukan halaman wiki yang membelakakan.
 | [Panduan Sertifikasi Keamanan](id/career/certifications.md) | Security+, eJPT, OSCP, CISSP — mana yang cocok untuk jalur mana |
 | [Peta Belajar: 3 / 6 / 12 Bulan](id/career/study-roadmap.md) | Rencana konkret per bulan, home lab, portofolio, wawancara |
 
+### Praktis (4 artikel)
+
+| Artikel | Yang akan Anda pelajari |
+|---------|-------------------------|
+| [Membangun Home Lab](id/practical/hands-on-lab.md) | Setup lab yang legal, aman, dan terisolasi dengan target rentan serta tool |
+| [Dasar Incident Response](id/practical/incident-response.md) | Siklus IR, checklist jam pertama, peran tim, penanganan bukti |
+| [Dasar Keamanan Cloud](id/practical/cloud-security.md) | Shared responsibility, IAM, miskonfigurasi, logging cloud |
+| [Manajemen Kerentanan](id/practical/vulnerability-management.md) | CVE, CVSS, pemindaian, SLA triase, patch vs kompensasi |
+
 Setiap artikel tersedia dalam **English** (`en/`) dan **Bahasa Indonesia** (`id/`).
 
 ## Baca di web
@@ -61,10 +70,12 @@ csix-wiki/
 ├── assets/           # banner
 ├── en/               # artikel English
 │   ├── fundamentals/
-│   └── career/
+│   ├── career/
+│   └── practical/
 ├── id/               # artikel Indonesia
 │   ├── fundamentals/
-│   └── career/
+│   ├── career/
+│   └── practical/
 └── .github/workflows # CI: validasi link + manifest
 ```
 

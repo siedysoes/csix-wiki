@@ -1,7 +1,8 @@
 {
   "sections": [
     { "id": "fundamentals", "en": "Fundamentals", "id_lang": "Fundamental" },
-    { "id": "career", "en": "Career & Certifications", "id_lang": "Karier & Sertifikasi" }
+    { "id": "career", "en": "Career & Certifications", "id_lang": "Karier & Sertifikasi" },
+    { "id": "practical", "en": "Practical", "id_lang": "Praktis" }
   ],
   "topics": [
     { "id": "cia-triad", "section": "fundamentals",
@@ -39,6 +40,18 @@
       "id_lang": { "title": "Panduan Sertifikasi Keamanan", "path": "id/career/certifications.md" } },
     { "id": "study-roadmap", "section": "career",
       "en": { "title": "Study Roadmap: 3 / 6 / 12 Months", "path": "en/career/study-roadmap.md" },
-      "id_lang": { "title": "Peta Belajar: 3 / 6 / 12 Bulan", "path": "id/career/study-roadmap.md" } }
+      "id_lang": { "title": "Peta Belajar: 3 / 6 / 12 Bulan", "path": "id/career/study-roadmap.md" } },
+    { "id": "hands-on-lab", "section": "practical",
+      "en": { "title": "Building a Home Lab", "path": "en/practical/hands-on-lab.md" },
+      "id_lang": { "title": "Membangun Home Lab", "path": "id/practical/hands-on-lab.md" } },
+    { "id": "incident-response", "section": "practical",
+      "en": { "title": "Incident Response Basics", "path": "en/practical/incident-response.md" },
+      "id_lang": { "title": "Dasar Incident Response", "path": "id/practical/incident-response.md" } },
+    { "id": "cloud-security", "section": "practical",
+      "en": { "title": "Cloud Security Basics", "path": "en/practical/cloud-security.md" },
+      "id_lang": { "title": "Dasar Keamanan Cloud", "path": "id/practical/cloud-security.md" } },
+    { "id": "vulnerability-management", "section": "practical",
+      "en": { "title": "Vulnerability Management", "path": "en/practical/vulnerability-management.md" },
+      "id_lang": { "title": "Manajemen Kerentanan", "path": "id/practical/vulnerability-management.md" } }
   ]
 }
