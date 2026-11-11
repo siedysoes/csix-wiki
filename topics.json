@@ -52,6 +52,18 @@
       "id_lang": { "title": "Dasar Keamanan Cloud", "path": "id/practical/cloud-security.md" } },
     { "id": "vulnerability-management", "section": "practical",
       "en": { "title": "Vulnerability Management", "path": "en/practical/vulnerability-management.md" },
-      "id_lang": { "title": "Manajemen Kerentanan", "path": "id/practical/vulnerability-management.md" } }
+      "id_lang": { "title": "Manajemen Kerentanan", "path": "id/practical/vulnerability-management.md" } },
+    { "id": "digital-forensics", "section": "practical",
+      "en": { "title": "Digital Forensics Basics", "path": "en/practical/digital-forensics.md" },
+      "id_lang": { "title": "Dasar Digital Forensics", "path": "id/practical/digital-forensics.md" } },
+    { "id": "secure-coding", "section": "practical",
+      "en": { "title": "Secure Coding Practices", "path": "en/practical/secure-coding.md" },
+      "id_lang": { "title": "Praktik Secure Coding", "path": "id/practical/secure-coding.md" } },
+    { "id": "network-tools", "section": "practical",
+      "en": { "title": "Networking Tools Deep-Dive", "path": "en/practical/network-tools.md" },
+      "id_lang": { "title": "Mendalami Tool Jaringan", "path": "id/practical/network-tools.md" } },
+    { "id": "security-awareness", "section": "practical",
+      "en": { "title": "Security Awareness Programs", "path": "en/practical/security-awareness.md" },
+      "id_lang": { "title": "Program Kesadaran Keamanan", "path": "id/practical/security-awareness.md" } }
   ]
 }

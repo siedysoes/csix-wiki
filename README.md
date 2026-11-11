@@ -38,7 +38,7 @@ cross-linked articles instead of sprawling wiki pages.
 | [Security Certifications Guide](en/career/certifications.md) | Security+, eJPT, OSCP, CISSP — which fits which path |
 | [Study Roadmap: 3 / 6 / 12 Months](en/career/study-roadmap.md) | Concrete month-by-month plans, home lab, portfolio, interviews |
 
-### Practical (4 articles)
+### Practical (8 articles)
 
 | Article | You'll learn |
 |---------|--------------|
@@ -46,6 +46,10 @@ cross-linked articles instead of sprawling wiki pages.
 | [Incident Response Basics](en/practical/incident-response.md) | The IR lifecycle, first-hour checklist, roles, evidence handling |
 | [Cloud Security Basics](en/practical/cloud-security.md) | Shared responsibility, IAM, misconfigurations, cloud logging |
 | [Vulnerability Management](en/practical/vulnerability-management.md) | CVE, CVSS, scanning, triage SLAs, patch vs compensate |
+| [Digital Forensics Basics](en/practical/digital-forensics.md) | Evidence handling, forensic imaging, artifacts, timeline analysis |
+| [Secure Coding Practices](en/practical/secure-coding.md) | Input validation, secrets management, dependency hygiene, review |
+| [Networking Tools Deep-Dive](en/practical/network-tools.md) | Wireshark, nmap, netcat, curl, dig — practical reference |
+| [Security Awareness Programs](en/practical/security-awareness.md) | Phishing simulations, metrics, building a security culture |
 
 Every article exists in **English** (`en/`) and **Indonesian** (`id/`).
 

@@ -38,7 +38,7 @@ pendek, praktis, dan saling terhubung, bukan halaman wiki yang membelakakan.
 | [Panduan Sertifikasi Keamanan](id/career/certifications.md) | Security+, eJPT, OSCP, CISSP — mana yang cocok untuk jalur mana |
 | [Peta Belajar: 3 / 6 / 12 Bulan](id/career/study-roadmap.md) | Rencana konkret per bulan, home lab, portofolio, wawancara |
 
-### Praktis (4 artikel)
+### Praktis (8 artikel)
 
 | Artikel | Yang akan Anda pelajari |
 |---------|-------------------------|
@@ -46,6 +46,10 @@ pendek, praktis, dan saling terhubung, bukan halaman wiki yang membelakakan.
 | [Dasar Incident Response](id/practical/incident-response.md) | Siklus IR, checklist jam pertama, peran tim, penanganan bukti |
 | [Dasar Keamanan Cloud](id/practical/cloud-security.md) | Shared responsibility, IAM, miskonfigurasi, logging cloud |
 | [Manajemen Kerentanan](id/practical/vulnerability-management.md) | CVE, CVSS, pemindaian, SLA triase, patch vs kompensasi |
+| [Dasar Digital Forensics](id/practical/digital-forensics.md) | Penanganan bukti, imaging forensik, artefak, analisis timeline |
+| [Praktik Secure Coding](id/practical/secure-coding.md) | Validasi input, manajemen secrets, higiene dependensi, review |
+| [Mendalami Tool Jaringan](id/practical/network-tools.md) | Wireshark, nmap, netcat, curl, dig — referensi praktis |
+| [Program Kesadaran Keamanan](id/practical/security-awareness.md) | Simulasi phishing, metrik, membangun budaya keamanan |
 
 Setiap artikel tersedia dalam **English** (`en/`) dan **Bahasa Indonesia** (`id/`).
 
